@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Previsão de Sobrevivência no Titanic
 
 Este projeto visa prever a sobrevivência de passageiros do Titanic usando um classificador de Random Forest. O objetivo é analisar dados de passageiros e aplicar técnicas de aprendizado de máquina para fazer previsões sobre a variável alvo `Survived`.
 
